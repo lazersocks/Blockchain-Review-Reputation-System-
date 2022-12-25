@@ -1,0 +1,6 @@
+{
+  "service_provider_address": {
+    "user_address1": { "review_id": 1, "review": "samplereview1" }
+  },
+  "user_address2": { "review_id": 2, "review": "sample review 2" }
+}
